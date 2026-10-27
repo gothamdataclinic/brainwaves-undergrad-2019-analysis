@@ -27,9 +27,8 @@ study analysis — no application code.
 **No student data are published in this repository.** The study data contain
 students' survey responses and free-text answers, including records from
 students who did not consent to research use; those records were excluded from
-all analyses. Student-level data are therefore withheld. This basis should be
-confirmed with the holder of the study's ethics records (NYU IRB-FY2017-1171)
-before any change to this policy.
+all analyses. Student-level data are therefore withheld, in line with the
+study's ethics approval (NYU IRB-FY2017-1171) and consent terms.
 
 What this means in practice:
 
