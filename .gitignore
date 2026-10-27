@@ -1,0 +1,9 @@
+# Student data — never commit (see README: Data availability)
+raw_data/
+exports/
+*.csv
+*.jsonl
+*.xlsx
+.env
+__pycache__/
+.venv/
